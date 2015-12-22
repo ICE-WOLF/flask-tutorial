@@ -10,7 +10,9 @@ Source code for video tutorial series
 https://www.youtube.com/playlist?list=PL0DA14EB3618A3507
 
 #Resources
+
 http://jinja.pocoo.org/docs/dev/templates/
+
 http://opentechschool.github.io/python-flask/
 
 #ما هو Flask ?
