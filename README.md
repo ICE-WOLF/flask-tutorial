@@ -9,6 +9,8 @@ Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intenti
 Source code for video tutorial series
 https://www.youtube.com/playlist?list=PL0DA14EB3618A3507
 
+https://www.youtube.com/watch?v=Wb-K40mkhEU&index=2&list=PL0DA14EB3618A3507
+
 #Resources
 
 http://jinja.pocoo.org/docs/dev/templates/
